@@ -61,8 +61,8 @@ As you work through this module, practice asking:
 The goal is not a flattering self-portrait. The goal is an **accurate** one — because accurate self-knowledge is what makes good decisions possible.
 
 ---
-###Overview of Self-Assessment Tools Used in This Module
-
+### Overview of Self-Assessment Tools Used in This Module
+---
 
 This module uses a carefully selected set of self-assessment tools, each designed to illuminate a different dimension of who you are. No single tool tells the whole story — but together, they produce a rich, multi-dimensional picture.
 
