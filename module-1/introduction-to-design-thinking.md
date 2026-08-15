@@ -1,12 +1,12 @@
 
+
+
+# Introduction to Design Thinking
+
+
 ---
-
-## Introduction to Design Thinking
-
----
-
 ### What Is Design Thinking? Origins and Core Principles
-
+---
 
 
 Design Thinking originated in the world of product and industrial design. It was developed and refined at Stanford University's **d.school (Hasso Plattner Institute of Design)** and popularized by the global design firm **IDEO**. Over time, it moved far beyond design studios and engineering labs. Today, it is used by educators, entrepreneurs, healthcare professionals, policymakers, and organizations around the world to solve complex, human-centered problems.
@@ -25,10 +25,10 @@ Rather than beginning with assumptions, rules, or predetermined solutions, Desig
 4. **Iterative** — You revisit and refine. The process loops back on itself by design.
 5. **Optimistic** — Design Thinking assumes that better solutions are always possible.
 
+
 ---
-
 ### The Five Phases: Empathize → Define → Ideate → Prototype → Test
-
+---
 
 Let us walk through each phase briefly. You will spend an entire module in each of these phases later in the course — this is just an orientation.
 
@@ -48,9 +48,8 @@ This is the building phase. Designers create rough, testable versions of their i
 This is the feedback phase. Designers put their prototypes in front of real users and learn from the results. You will stress-test your plan, anticipate obstacles, and build resilience into your roadmap.
 
 ---
-
 ###  Design Thinking vs. Traditional Problem-Solving
-
+---
 
 Most of the decision-making you have been taught follows a linear path: identify the problem → research options → choose the best one → execute. This works well for problems that are well-defined and stable.
 
@@ -68,9 +67,8 @@ But choosing a career and designing a degree are not well-defined, stable proble
 Design Thinking does not eliminate uncertainty. It teaches you to work *with* uncertainty — which is exactly the skill you need right now.
 
 ---
-
 ### Real-World Examples of Design Thinking in Action
-
+---
 
 **Example 1: IDEO and the Shopping Cart**
 In a famous case study, IDEO was given five days to redesign the shopping cart. Rather than immediately improving the cart's mechanics, their team spent the first days in stores, observing shoppers, talking to parents with children, and interviewing store employees. What they built came directly from those human insights. The result was not just a better cart — it was a cart designed around real human behavior.
@@ -82,14 +80,12 @@ Design Thinking teams worked with healthcare providers in developing countries t
 Every time you have solved a real problem by paying attention to what was actually happening — rather than what you assumed was happening — you were practicing a version of Design Thinking. This course simply gives you a structured, repeatable way to do it.
 
 
+
+# The Freshman Transition
+
 ---
-
-## The Freshman Transition
-
----
-
 ### From High School to College: What Changes and What Stays the Same
-
+---
 
 The shift from high school to college is one of the largest environmental changes most people experience in early adulthood — and it happens fast. Understanding what is different will help you navigate it with intention rather than just reacting.
 
@@ -112,9 +108,8 @@ The shift from high school to college is one of the largest environmental change
 The transition is not just academic. It is psychological. Many students are surprised to find that the emotional adjustment is harder than the academic one. That is normal. And that is exactly what this course is designed to help you navigate.
 
 ---
-
 ### The Myth of "Having It All Figured Out"
-
+---
 
 Here is something no one tells you often enough: **most of your classmates do not know what they want to do with their lives either.**
 
@@ -127,9 +122,8 @@ Design Thinking does not ask you to pretend you have the answers. It asks you to
 > *"The goal is not certainty. The goal is a better question."*
 
 ---
-
 ### Growth Mindset vs. Fixed Mindset — Carol Dweck's Framework
-
+---
 
 Psychologist Carol Dweck spent decades studying how people respond to challenges, failure, and effort. Her research produced one of the most important frameworks in modern education: the concept of **mindset**.
 
@@ -151,9 +145,8 @@ The relevance to this course is direct: **designing your degree and career requi
 The good news: mindset is not fixed. It can change. And becoming aware of your current default is the first step.
 
 ---
-
 ###  Navigating College Resources
-
+---
 
 One of the most consistent findings in college success research is this: **students who use campus resources perform better and persist longer.** Yet most students — especially freshmen — underutilize the resources available to them, often because they do not know what exists or feel uncertain about reaching out.
 
@@ -173,14 +166,13 @@ Key resources to know from day one:
 
 
 
+
+
+# Introduction to Your Personal Design Portfolio
+
 ---
-
-## Introduction to Your Personal Design Portfolio
-
----
-
 ### What Is a Design Portfolio and Why Are You Building One?
-
+---
 
 In the design world, a portfolio is not just a collection of finished work. It is a **record of thinking** — evidence of how a designer moved through problems, made decisions, and grew over time. The process matters as much as the product.
 
@@ -195,8 +187,8 @@ Your **Personal Design Portfolio** works the same way. It is not a resume. It is
 By the end of this course, your portfolio will contain  one for each module. Together, they will tell the story of how you designed your academic and professional future. It will be something you can return to, revise, and build on long after this course ends.
 
 ---
-
 ### Setting Up Your Personal Design Portfolio on GitHub
+---
 our **Personal Design Portfolio** is the central artifact of this course. It is a living document — not a one-time assignment — that you will build, revise, and expand across all five modules. By the end of the course, it will contain:
 
 - Self-assessments and personal reflections
