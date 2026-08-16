@@ -14,6 +14,8 @@ The six RIASEC themes are:
 
 The six themes are commonly represented as a hexagon. Themes that are next to each other on the hexagon tend to share more characteristics, while themes farther apart tend to have fewer similarities. This arrangement can help you understand why certain activities or work environments may feel more natural or comfortable than others.
 
+![GitHub](https://github.com/jim-ardiansyah/cecs-101-design-your-career-design-your-degree/blob/main/images/riasec-1.jpg)
+
 ---
 ### Your RIASEC Profile
 ---
