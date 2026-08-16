@@ -14,7 +14,7 @@ The six RIASEC themes are:
 
 The six themes are commonly represented as a hexagon. Themes that are next to each other on the hexagon tend to share more characteristics, while themes farther apart tend to have fewer similarities. This arrangement can help you understand why certain activities or work environments may feel more natural or comfortable than others.
 
-![GitHub](https://github.com/jim-ardiansyah/cecs-101-design-your-career-design-your-degree/blob/main/images/riasec-1.jpg){width=300px}
+![GitHub](https://github.com/jim-ardiansyah/cecs-101-design-your-career-design-your-degree/blob/main/images/riasec-1.jpg)
 
 ---
 ### Your RIASEC Profile
@@ -43,4 +43,4 @@ One important caveat: your RIASEC profile is not a permanent identity. For some 
 
 What matters most is that no framework, assessment, or code can know your interests better than you do. RIASEC is a tool for organizing self-reflection — a starting point for conversation, not a verdict. Use it to notice patterns, name what draws you in, and open up possibilities you might not have considered. But the final call on what excites you, what drains you, and what you want to build a career around will always be yours to make.
 
-![github](https://github.com/jim-ardiansyah/cecs-101-design-your-career-design-your-degree/blob/main/images/riasec-2.jpg){width=300px}
+<img src="https://github.com/jim-ardiansyah/cecs-101-design-your-career-design-your-degree/blob/main/images/riasec-2.jpg" alt="RIASEC Framework" width="300" height="200">
