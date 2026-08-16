@@ -43,4 +43,4 @@ One important caveat: your RIASEC profile is not a permanent identity. For some 
 
 What matters most is that no framework, assessment, or code can know your interests better than you do. RIASEC is a tool for organizing self-reflection — a starting point for conversation, not a verdict. Use it to notice patterns, name what draws you in, and open up possibilities you might not have considered. But the final call on what excites you, what drains you, and what you want to build a career around will always be yours to make.
 
-<img src="https://github.com/jim-ardiansyah/cecs-101-design-your-career-design-your-degree/blob/main/images/riasec-2.jpg" alt="RIASEC Framework" width="300" height="200">
+<img src="https://github.com/jim-ardiansyah/cecs-101-design-your-career-design-your-degree/blob/main/images/riasec-2.jpg" alt="RIASEC Framework" width="1000" height="1000">
