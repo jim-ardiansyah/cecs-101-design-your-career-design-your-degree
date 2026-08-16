@@ -2,7 +2,7 @@
 # The Define Phase in Design Thinking
 
 ---
-### 3.1.1 From Empathy to Clarity: What the Define Phase Accomplishes
+### From Empathy to Clarity: What the Define Phase Accomplishes
 ---
 
 
