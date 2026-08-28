@@ -55,9 +55,10 @@ For each of your top three RIASEC types, respond to the following prompts:
 
 **Careers associated with this type that interest me:**
 *(List at least 3 from the O*NET results or your own research.)*
-1.
-2.
-3.
+1. *career-1*
+2. *career-2*
+3. *career-3*
+
 
 ---
 
@@ -70,9 +71,9 @@ For each of your top three RIASEC types, respond to the following prompts:
 [Your response here]
 
 **Careers associated with this type that interest me:**
-1.
-2.
-3.
+1. *career-1*
+2. *career-2*
+3. *career-3*
 
 ---
 
@@ -85,9 +86,9 @@ For each of your top three RIASEC types, respond to the following prompts:
 [Your response here]
 
 **Careers associated with this type that interest me:**
-1.
-2.
-3.
+1. *career-1*
+2. *career-2*
+3. *career-3*
 
 ---
 
