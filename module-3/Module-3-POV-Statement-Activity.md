@@ -70,7 +70,7 @@ Use the following template to draft your POV Statement. Write it in your own voi
 
 ---
 
-## Step 4 — Reflect (5–10 minutes)
+## Step 4 — Reflect
 
 Below your final POV Statement, write a short paragraph (5–8 sentences) responding to the following:
 
