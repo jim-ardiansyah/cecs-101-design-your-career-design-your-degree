@@ -14,11 +14,11 @@ Open your previous assignments and read through your key insights from:
 As you read, highlight or note the three to five themes that appear most consistently. You are looking for patterns — things that showed up in multiple places.
 
 **Themes I noticed:**
-1.
-2.
-3.
-4.
-5.
+1. *theme-1*
+2. *theme-2*
+3. *theme-3*
+4. *theme-4*
+5. *theme-5*
 
 ---
 
