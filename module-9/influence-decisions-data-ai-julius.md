@@ -1,5 +1,4 @@
-# Assignment: Influence Decisions with Data and AI
-### Simulation using Julius AI
+# Assignment: Influence Decisions with Data and AI using Julius AI
 
 ## Purpose
 
