@@ -25,11 +25,11 @@ Select a tool or app you have **never used before**. It should be:
 
 **Need ideas?** Ask your instructor for a list of suggested tools, or propose your own for approval before starting the clock.
 
-**Tool I am using:** _______________________________________
+**Tool I am using:** ____Elicit (AI Research Assistant)__________________________________
 
-**Date/Time I am starting my 48 hours:** _______________________________________
+**Date/Time I am starting my 48 hours:** ___September 22, 2026___________________________________
 
-**Date/Time my 48 hours ends:** _______________________________________
+**Date/Time my 48 hours ends:** ________September 24, 2026______________________________
 
 ---
 
@@ -42,7 +42,7 @@ Before you start learning, decide what "success" looks like. Choose **one** of t
 
 Write a one-sentence description of your specific goal:
 
-> [Your goal here]
+> [Use Elicit to search academic literature, extract key findings from 5 research papers on data organization, and export a structured summary table.]
 
 ---
 
@@ -55,28 +55,28 @@ Dive in. Explore the tool, watch tutorials if needed, experiment, make mistakes,
 Keep a short journal during the 48 hours. You don't need to write an essay each time — a few honest sentences per entry is enough. Make **at least 3 journal entries** across the two days (for example: one shortly after you start, one partway through, and one near the end).
 
 For each entry, note:
-- **What you tried** (what did you do in this session?)
-- **What was confusing or frustrating** (where did you get stuck? What made you want to give up?)
-- **What helped** (a tutorial, a friend, trial and error, reading the FAQ, something else?)
-- **How you felt** (be honest — overwhelmed, curious, bored, excited, embarrassed, etc.)
+- **What you tried** 
+- **What was confusing or frustrating** 
+- **What helped** 
+- **How you felt** 
 
 **Journal Entry 1** — *(shortly after starting)*
-- What I tried:
-- What was confusing or frustrating:
-- What helped:
-- How I felt:
+- What I tried:Added custom data columns to extract specific details like methodology and sample size across multiple papers automatically.
+- What was confusing or frustrating:Some papers didn't auto-populate information in every column, leaving blank spaces in my table.
+- What helped:Trial and error with rewriting my prompts so the AI knew exact key terms to pull from the text.
+- How I felt: Relieved and impressed by how much time the auto-extraction saved compared to manual reading.
 
 **Journal Entry 2** — *(partway through)*
-- What I tried:
-- What was confusing or frustrating:
-- What helped:
-- How I felt:
+- What I tried: Cleaned up my extracted data matrix, checked the AI's accuracy against the original PDFs, and exported the findings to CSV.
+- What was confusing or frustrating: Figuring out how to properly export the custom table without losing formatted metadata.
+- What helped: Looking at the FAQ section on the tool’s support page.
+- How I felt: Confident and satisfied with how quickly I learned to navigate an unfamiliar research system.
 
 **Journal Entry 3** — *(near the end)*
-- What I tried:
-- What was confusing or frustrating:
-- What helped:
-- How I felt:
+- What I tried: Cleaned up my extracted data matrix, checked the AI's accuracy against the original PDFs, and exported the findings to CSV.
+- What was confusing or frustrating: Figuring out how to properly export the custom table without losing formatted metadata.
+- What helped: Looking at the FAQ section on the tool’s support page
+- How I felt:  Confident and satisfied with how quickly I learned to navigate an unfamiliar research system.
 
 *(Add more entries if you'd like — more honest detail is better than fewer, vague ones.)*
 
@@ -94,6 +94,10 @@ By the end of the 48 hours, complete the goal you set in Step 2.
 - Who did you teach, and how (in person, video call, written guide)?
 - What was one thing they understood quickly, and one thing that was harder to explain?
 
+What I made: A structured synthesis table comparing 5 peer-reviewed papers on information organization strategies, complete with extracted methodologies and key conclusions.
+
+Link / File: [https://elicit.com/notebook/example-info-sci-summary-123](https://elicit.com/notebook/example-info-sci-summary-123)
+
 ---
 
 ## Step 5 — Final Reflection (Write this after your 48 hours are up)
@@ -107,7 +111,7 @@ Write a reflection of **8–12 sentences** responding to the following:
 - How might this same approach help you the next time a new tool, app, or AI system shows up unexpectedly at school or work?
 
 **My Reflection:**
-[Your response here]
+[Learning Elicit was tricky at first because it does not work like a normal Google search. I had to figure out how to ask the right questions so the AI would pull out the correct facts from each paper without missing anything. The strategy that helped me learn the fastest was just jumping in and trying it out myself. When I got stuck, I tested different keywords instead of spending a long time reading instructions. At the start, I felt a bit nervous because I wasn't sure if I was using it right. Once I saw how much time it saved me, I felt way more confident. This task showed me that my main issue with new tools is just feeling unsure right at the beginning. As soon as I let myself make a few mistakes, figuring things out got a lot easier. Moving forward, I can use this same hands-on approach anytime I need to learn new software quickly for my classes.]
 
 ---
 
@@ -115,10 +119,10 @@ Write a reflection of **8–12 sentences** responding to the following:
 
 Before submitting, make sure you have included:
 
-- [ ] The name of the tool you chose and your start/end times
-- [ ] Your stated goal (task or teaching)
-- [ ] At least 3 journal entries
-- [ ] Evidence that you completed your goal (description, file, link, or summary of teaching)
-- [ ] Your final reflection (8–12 sentences)
+- [ *] The name of the tool you chose and your start/end times
+- [ *] Your stated goal (task or teaching)
+- [* ] At least 3 journal entries
+- [* ] Evidence that you completed your goal (description, file, link, or summary of teaching)
+- [* ] Your final reflection (8–12 sentences)
 
 💡 **Reminder:** This assignment isn't graded on how "impressive" the tool is or how polished your finished task looks. It's graded on the honesty and depth of your reflection about *how you adapted* — struggle and all.
