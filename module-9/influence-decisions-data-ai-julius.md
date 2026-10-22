@@ -23,6 +23,8 @@ Pick a realistic decision that a real person or organization would need to make 
 
 You'll need a dataset, real or realistic. Good sources include Kaggle, a government open data portal, or a dataset provided by the instructor.
 
+https://github.com/awesomedata/awesome-public-datasets [list of public datasets]
+
 ### Step 2: Let Julius AI Drive the Decision
 
 Upload your dataset to Julius AI and interact with it the way a decision-maker actually would, in plain language, not as a data scientist. Ask it to:
